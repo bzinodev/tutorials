@@ -146,6 +146,12 @@ Recipes are bite-sized bite-sized, actionable examples of how to use specific Py
    :link: ../recipes/deployment_with_flask.html
    :tags: Production,TorchScript
 
+.. customcarditem::
+   :header: Model Freezing in TorchScript
+   :card_description: Learn how to use freezing API to optimize your trained model in TorchScript and do inference.
+   :image: ../_static/img/thumbnails/cropped/torchscript_overview.png
+   :link: ../recipes/torchscript_freezing.html
+   :tags: TorchScript
 
 .. End of tutorial card section
 
@@ -180,3 +186,4 @@ Recipes are bite-sized bite-sized, actionable examples of how to use specific Py
    /recipes/recipes/dynamic_quantization
    /recipes/torchscript_inference
    /recipes/deployment_with_flask
+   /recipes/torchscript_freezing
